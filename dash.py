@@ -12,10 +12,10 @@ import plotly.express as px
 import requests
 
 # Token and GitHub details
-#token = "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"
-#repo_owner = "romero220"
-#repo_name = "projectmanagement"
-#branch = "main"
+token = "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"
+repo_owner = "romero220"
+repo_name = "projectmanagement"
+branch = "main"
 
 # NLTK setup
 nltk.download('stopwords')
